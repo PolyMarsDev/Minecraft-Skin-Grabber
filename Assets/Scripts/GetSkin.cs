@@ -23,7 +23,7 @@ public class GetSkin : MonoBehaviour
 		yield return www.SendWebRequest();
 
 		if(www.isNetworkError || www.isHttpError) {
-			Debug.Log("Skin not found!");
+			Debug.Log("Username invalid or not found!");
 		}
 		else {
 			lastVerifiedUsername = username;
