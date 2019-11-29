@@ -1,2 +1,2 @@
 # Minecraft Skin Grabber
- Minecraft skin-grabbing tool made with Unity and minotar.net
+ Minecraft skin-grabbing tool made with Unity and https://minotar.net
